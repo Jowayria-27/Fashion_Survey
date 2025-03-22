@@ -1,0 +1,86 @@
+/Users/youmnakhaled/Projects/youmna/Survey/bin/Debug/net7.0/appsettings.Development.json
+/Users/youmnakhaled/Projects/youmna/Survey/bin/Debug/net7.0/appsettings.json
+/Users/youmnakhaled/Projects/youmna/Survey/bin/Debug/net7.0/Survey
+/Users/youmnakhaled/Projects/youmna/Survey/bin/Debug/net7.0/Survey.deps.json
+/Users/youmnakhaled/Projects/youmna/Survey/bin/Debug/net7.0/Survey.runtimeconfig.json
+/Users/youmnakhaled/Projects/youmna/Survey/bin/Debug/net7.0/Survey.dll
+/Users/youmnakhaled/Projects/youmna/Survey/bin/Debug/net7.0/Survey.pdb
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.csproj.AssemblyReference.cache
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.AssemblyInfoInputs.cache
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.AssemblyInfo.cs
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.csproj.CoreCompileInputs.cache
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.MvcApplicationPartsAssemblyInfo.cache
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/staticwebassets/msbuild.Survey.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/staticwebassets/msbuild.build.Survey.props
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Survey.props
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Survey.props
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/staticwebassets.build.json
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/staticwebassets.development.json
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/scopedcss/bundle/Survey.styles.css
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.dll
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/refint/Survey.dll
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.pdb
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/Survey.genruntimeconfig.cache
+/Users/youmnakhaled/Projects/youmna/Survey/obj/Debug/net7.0/ref/Survey.dll
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /bin/Debug/net7.0/appsettings.Development.json
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /bin/Debug/net7.0/appsettings.json
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /bin/Debug/net7.0/Survey
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /bin/Debug/net7.0/Survey.deps.json
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /bin/Debug/net7.0/Survey.runtimeconfig.json
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /bin/Debug/net7.0/Survey.dll
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /bin/Debug/net7.0/Survey.pdb
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.csproj.AssemblyReference.cache
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.AssemblyInfoInputs.cache
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.AssemblyInfo.cs
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.csproj.CoreCompileInputs.cache
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.MvcApplicationPartsAssemblyInfo.cache
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/staticwebassets/msbuild.Survey.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/staticwebassets/msbuild.build.Survey.props
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Survey.props
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Survey.props
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/staticwebassets.pack.json
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/staticwebassets.build.json
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/staticwebassets.development.json
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/scopedcss/bundle/Survey.styles.css
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.dll
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/refint/Survey.dll
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.pdb
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/Survey.genruntimeconfig.cache
+/Users/youmnakhaled/Desktop/fast-fashion-survey/myproject /obj/Debug/net7.0/ref/Survey.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\Survey.exe
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\Survey.deps.json
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\Survey.runtimeconfig.json
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\Survey.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\Survey.pdb
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.AssemblyInfo.cs
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\staticwebassets\msbuild.Survey.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\staticwebassets\msbuild.build.Survey.props
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Survey.props
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Survey.props
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\scopedcss\bundle\Survey.styles.css
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\refint\Survey.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.pdb
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.genruntimeconfig.cache
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\ref\Survey.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\Npgsql.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\2021\fastfashionsurvey-main\fastfashionsurvey-main\myproject  2\myproject\obj\Debug\net7.0\Survey.csproj.CopyComplete

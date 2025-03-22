@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F93E1941-D5C4-4ACD-A97B-E0CBD71F5B2E}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Survey PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/server.js">
+    <Files>
+      <File FileName="Properties/survey.html" />
+      <File FileName="Properties/post.html" />
+      <File FileName="Properties/server.js" Line="6" Column="1" />
+      <File FileName="Properties/first.html" />
+      <File FileName="Properties/next.html" />
+      <File FileName="Properties/Avatar.html" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="appsettings.json" />
+      <File FileName="Properties/data.html" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Survey" expanded="True">
+            <Node name="Survey" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
