@@ -1,49 +1,42 @@
 ﻿const express = require('express');
+const cors = require('cors');
+const { Pool } = require('pg');
+const bodyParser = require('body-parser');
+
 const app = express();
-const fs = require('fs');
-const createCsvWriter = require('csv-writer').createObjectCsvWriter;
-const path = require('path');
+const port = 3000;
 
-app.use(express.urlencoded({ extended: true }));
-app.use(express.static('public')); // Serve static files (e.g., HTML, CSS, JS)
+// Middleware
+app.use(cors());
+app.use(bodyParser.json());
 
-// Define the file path to save the CSV file
-const csvFilePath = path.join(__dirname, 'data.csv');
-console.log('CSV file path:', csvFilePath); // Add logging statement
-
-// Create a CSV writer instance
-const csvWriter = createCsvWriter({
-    path: csvFilePath,
-    header: [
-        { id: 'username', title: 'Username' },
-        { id: 'age', title: 'Age' },
-        // Add more header fields as needed
-    ],
-    append: true // Append new records to existing file
+// PostgreSQL Database Connection
+const pool = new Pool({
+    user: 'your_username',
+    host: 'localhost',
+    database: 'your_database',
+    password: 'your_password',
+    port: 5432, // Default PostgreSQL port
 });
 
-// Endpoint to handle form submission
-app.post('/submit-form', (req, res) => {
-    const { username, age /* other form fields */ } = req.body;
+// API to store survey data
+app.post('/save-survey', async (req, res) => {
+    const { username, gender, education, age, startTime } = req.body;
 
-    console.log('Received form data:', { username, age /* other form fields */ });
-
-    // Example: Save form data to a CSV file
-    const formData = { username, age /* other form fields */ };
-
-    // Write the form data to the CSV file
-    csvWriter.writeRecords([formData])
-        .then(() => {
-            console.log('Form data saved to CSV file');
-            res.json({ success: true }); // Send response back to frontend
-        })
-        .catch(error => {
-            console.error('Error writing form data to CSV file:', error);
-            res.status(500).json({ error: 'Internal Server Error' });
-        });
+    try {
+        const result = await pool.query(
+            `INSERT INTO survey_responses (username, gender, education, age, start_time) 
+             VALUES ($1, $2, $3, $4, $5) RETURNING *`,
+            [username, gender, education, age, startTime]
+        );
+        res.json({ success: true, data: result.rows[0] });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ success: false, message: 'Database error' });
+    }
 });
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+// Start Server
+app.listen(port, () => {
+    console.log(`Server running on http://localhost:${port}`);
 });

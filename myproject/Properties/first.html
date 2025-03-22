@@ -131,50 +131,58 @@
         </div>
     </div>
 
-    <script>// Function to save start time when the page loads
+    <script>
+        // Function to save start time when the page loads
         function saveStartTime() {
             const startTime = new Date().getTime(); // Using milliseconds
-            localStorage.setItem('surveyStartTime', startTime);
+            sessionStorage.setItem('surveyStartTime', startTime);
         }
 
         // Call saveStartTime function when the page loads
         window.onload = saveStartTime;
 
-        // Function to remove old user's answers from localStorage
-
-        function removeOldUserAnswers() {
-            // Remove old user answers from localStorage
-
-            localStorage.removeItem('username');
-            localStorage.removeItem('gender');
-            localStorage.removeItem('education');
-            localStorage.removeItem('age');
-            // Add more lines to remove other answers if needed
-        }
-
-        // Function to save user data
-        function saveUserData() {
-            // Remove old user's answers before saving new user data
-            removeOldUserAnswers();
+        // Function to save user data to the database
+        async function saveUserData(event) {
+            event.preventDefault(); // Prevent form submission
 
             // Get form data
             const formData = new FormData(document.getElementById('survey-form'));
 
             // Convert formData to object
-
             const formDataObj = {};
             formData.forEach((value, key) => {
                 formDataObj[key] = value;
             });
 
-            // Save form data to localStorage
-            localStorage.setItem('username', formDataObj['username']);
-            localStorage.setItem('gender', formDataObj['gender']);
-            localStorage.setItem('education', formDataObj['education']);
-            localStorage.setItem('age', formDataObj['age']);
+            // Add survey start time
+            formDataObj['startTime'] = sessionStorage.getItem('surveyStartTime');
 
-            return true; // Allow form submission to continue
-        }</script>
+            // Send data to backend
+            try {
+                const response = await fetch('http://localhost:3000/save-survey', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(formDataObj)
+                });
+
+                const data = await response.json();
+                if (data.success) {
+                    alert('Survey data saved successfully!');
+                    document.getElementById('survey-form').reset(); // Reset form
+                } else {
+                    alert('Error saving survey data');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Failed to connect to server');
+            }
+        }
+
+        // Attach event listener to form submission
+        document.getElementById('survey-form').addEventListener('submit', saveUserData);
+    </script>
 
 
 
