@@ -1,2 +1,2 @@
 # Fashion_Survey
-My graduation which continues onto Youmna Mohyeldin's project
+My graduation which continues onto Yomna Mohyeldin's project
