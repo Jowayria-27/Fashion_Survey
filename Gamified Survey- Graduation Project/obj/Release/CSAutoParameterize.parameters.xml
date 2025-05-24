@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Survey-Web.config Connection String" description="Survey Connection String used in web.config by the application to access the database." defaultValue="Server=db16231.databaseasp.net; Database=db16231; User Id=db16231; Password=23ANDME@GUC; Encrypt=False; MultipleActiveResultSets=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\DELL\\source\\repos\\Gamified\ Survey-\ Graduation\ Project\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Survey']/@connectionString" />
+  </parameter>
+</parameters>
