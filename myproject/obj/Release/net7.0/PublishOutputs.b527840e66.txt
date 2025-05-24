@@ -1,7 +1,0 @@
-/Users/youmnakhaled/Desktop/Survey
-/Users/youmnakhaled/Desktop/appsettings.Development.json
-/Users/youmnakhaled/Desktop/appsettings.json
-/Users/youmnakhaled/Desktop/Survey.dll
-/Users/youmnakhaled/Desktop/Survey.deps.json
-/Users/youmnakhaled/Desktop/Survey.runtimeconfig.json
-/Users/youmnakhaled/Desktop/Survey.pdb
